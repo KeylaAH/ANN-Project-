@@ -88,7 +88,7 @@ Just open the notebook and run the cells.
 Usage:
 
 1. Open the notebook:
-   ANN_Classification_Final.ipynb
+   ANN Classification Phishing Email Final.ipynb
 
 2. Upload the dataset:
    `Phishing_Email.csv`
@@ -129,9 +129,9 @@ Key Design Decisions
 Results:
 
 Metric		Performance
-Accuracy	~0.99
+Accuracy	~0.97
 F1 Score	~0.99
-ROC-AUC		~0.98
+ROC-AUC		~0.97
 
 (Results may vary depending on preprocessing and random initialization)
 ========================================================================================================================================
