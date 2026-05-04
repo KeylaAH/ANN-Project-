@@ -146,7 +146,7 @@ How to Run
 In Google Colab
 
 Open:
-	ANN_Teen_mental_health_final.ipynb
+	ANN_Teen_mental_health_v_final.ipynb
 Upload dataset:
 	digital_habits_vs_mental_health.csv
 Run all cells sequentially
